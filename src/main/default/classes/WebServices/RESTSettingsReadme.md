@@ -13,7 +13,7 @@ To be able to access remote resources first you need to configure a remote site 
 ### Custom Metadata
 
 1. Navigate to Setup -> Custom Code -> Custom Metadata Types
-2. Create new custom metadata type called 'REST Settings' as follows:
+2. Create new custom metadata type called "REST Settings" as follows:
 
 * **Singular Label:** Rest Settings
 * **Plural Label:** Rest Settings
@@ -27,7 +27,7 @@ To be able to access remote resources first you need to configure a remote site 
 * **Data Type:** Text(255)
 * **API Name (automatically generated):** value\_\_c
 
-4. Edit the records in the custom metadata type by clicking the **"Manage REST Settings""** button.
+4. Edit the records in the custom metadata type by clicking the **"Manage REST Settings"** button.
 
 5. Create the following records:
 
